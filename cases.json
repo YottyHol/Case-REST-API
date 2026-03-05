@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "title": "Client Contract Review",
+    "description": "Review and finalize the new client contract terms and conditions.",
+    "status": "open",
+    "client": "Acme Corp",
+    "priority": "high",
+    "createdAt": "2026-02-10T09:00:00.000Z"
+  },
+  {
+    "id": 2,
+    "title": "Legal Documentation",
+    "description": "Prepare legal documentation for the merger agreement.",
+    "status": "closed",
+    "client": "Tech Solutions Inc",
+    "priority": "medium",
+    "createdAt": "2026-02-09T14:30:00.000Z"
+  },
+  {
+    "id": 3,
+    "title": "Compliance Audit",
+    "description": "Complete quarterly compliance audit and submit report.",
+    "status": "closed",
+    "client": "Global Industries",
+    "priority": "high",
+    "createdAt": "2026-02-08T11:15:00.000Z"
+  },
+  {
+    "id": 4,
+    "title": "Patent Application",
+    "description": "File patent application for new technology innovation.",
+    "status": "open",
+    "client": "Innovation Labs",
+    "priority": "low",
+    "createdAt": "2026-02-07T16:45:00.000Z"
+  }
+]
